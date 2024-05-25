@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
-I'm a Computer Science Student and Web Developer in <b>1337</b>, BENGUERIR. 
+I'm a UX/UI designer ,Front-end developer and student at <b>1337</b>, BENGUERIR. 
 <!-- This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
 Today, the sun rose at <b>07:38 AM</b> and sets at <b>06:49 PM</b>. 
 As of <b>04:09 PM MST </b> the temperature is <b>66.5°F</b> 👌😄.</p>
